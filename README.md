@@ -1,0 +1,14 @@
+Hospital APP Java Spring Boot
+----------------
+-> Java
+----------------
+-> Spring Boot
+----------------
+-> Spring Data JPA
+----------------
+-> Hibernate
+----------------
+-> RestAPI
+----------------
+-> PostgreSQL
+----------------
